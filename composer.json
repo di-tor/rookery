@@ -1,12 +1,12 @@
 {
     "name": "diolektor/rookery",
-    "description": "description_text",
+    "description": "rookery",
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
-            "name": "author's name",
-            "email": "email@example.com"
+            "name": "Visily Komrakov",
+            "email": "diolektor@gmail.com"
         }
     ],
     "autoload": {
