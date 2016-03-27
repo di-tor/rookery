@@ -3,6 +3,7 @@
     "description": "rookery",
     "minimum-stability": "stable",
     "license": "MIT",
+    "type": "project",
     "authors": [
         {
             "name": "Visily Komrakov",
